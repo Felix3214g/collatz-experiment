@@ -39,6 +39,9 @@ The generated plots show a very irregular distribution rather than a clear linea
 These results only describe the tested range and do not prove the Collatz conjecture.
 
 ## Results
+
+<img width="630" height="550" alt="image" src="https://github.com/user-attachments/assets/ca18585f-4cd3-497f-ae03-4dca34f03e76" />
+
 <img width="634" height="537" alt="image" src="https://github.com/user-attachments/assets/d807fff0-27cf-46ba-a72b-c370d39bf282" />
 
 ## Project structure
