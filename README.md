@@ -40,8 +40,18 @@ These results only describe the tested range and do not prove the Collatz conjec
 
 ## Results
 
+### Stopping times from 1 to 10,000
+
+This plot shows the total stopping time for every starting value from 1 to 10,000.  
+The distribution is very irregular and higher starting values do not automatically require more steps.
+
 <img width="630" height="535" alt="image" src="https://github.com/user-attachments/assets/e9756b60-890e-4bef-8d0f-8635532d8aa1" />
 
+
+### Stopping time from 1 to 1000
+
+This plot shows the same data for the smaller range from 1 to 1,000.  
+The smaller range makes the irregular pattern more visible.
 
 <img width="634" height="537" alt="image" src="https://github.com/user-attachments/assets/d807fff0-27cf-46ba-a72b-c370d39bf282" />
 
