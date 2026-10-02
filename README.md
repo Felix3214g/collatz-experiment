@@ -61,7 +61,7 @@ The smaller range makes the irregular pattern more visible.
 - `collatz_results.csv` --> contains the generated results
 - `plot.py` --> visualizes the results using matplotlib
 
-## Running the C program:
+## Running the C program
 
 ```bash
 clang collatz.c -o collatz
