@@ -38,6 +38,10 @@ For example:
 The generated plots show a very irregular distribution rather than a clear linear pattern.
 These results only describe the tested range and do not prove the Collatz conjecture.
 
+## Results
+
+
+
 
 
 ## Project structure
