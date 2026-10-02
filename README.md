@@ -48,7 +48,7 @@ The distribution is very irregular and higher starting values do not automatical
 <img width="630" height="535" alt="image" src="https://github.com/user-attachments/assets/e9756b60-890e-4bef-8d0f-8635532d8aa1" />
 
 
-### Stopping time from 1 to 1000
+### Stopping times from 1 to 1000
 
 This plot shows the same data for the smaller range from 1 to 1,000.  
 The smaller range makes the irregular pattern more visible.
