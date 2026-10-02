@@ -13,7 +13,7 @@ Example:
 
 6 --> 3 --> 10 --> 5 --> 16 --> 8 --> 4 --> 2 --> 1
 
-The conjecture states that every positive integer will eventually reach 1, although that has never been proven for all positive integers. It remains as one of the most famous unsolved problems in mathematics.
+The conjecture states that every positive integer will eventually reach 1, although that has never been proven for all positive integers. It remains one of the most famous unsolved problems in mathematics.
 
 ## How does this project work?
 
@@ -40,7 +40,7 @@ These results only describe the tested range and do not prove the Collatz conjec
 
 ## Results
 
-### Stopping times from 1 to 10,000
+### Stopping times from 1 to 10 000
 
 This plot shows the total stopping time for every starting value from 1 to 10,000.  
 The distribution is very irregular and higher starting values do not automatically require more steps.
