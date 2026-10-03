@@ -55,10 +55,7 @@ int main () {
     }
     fclose(file);
 
-    printf("27: %d steps\n", ergebnisBuffer[27]);
-    printf("100: %d steps\n", ergebnisBuffer[100]);
-    printf("1000: %d steps\n", ergebnisBuffer[1000]);
-
+    printf("Results written to collatz_results.csv\n");
     free(ergebnisBuffer);
     
 
