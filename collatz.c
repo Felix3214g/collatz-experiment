@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
+#include <stdint.h>
 
-int collatz_steps(int number) {
+int collatz_steps(uint64_t number) {
     int steps = 0;
 
     while (number != 1) {
@@ -19,10 +20,8 @@ int collatz_steps(int number) {
 }
 
 
-
-
 int main () {
-    int max_number = 10000;
+    int max_number = 1000000;
     int buffer_size = max_number + 1;
     
 
@@ -60,9 +59,6 @@ int main () {
     
 
     return 0;
-
-
-
 
 }
 
